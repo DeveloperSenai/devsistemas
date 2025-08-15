@@ -1,0 +1,15 @@
+.colorBody{
+    background-color: #a3e3ff;
+}
+
+.colorNav{
+    background-color: #2a82d4!important;
+}
+
+.colorA{
+    color: white!important;
+}
+
+.colorA:hover{
+    color: black!important;
+}
