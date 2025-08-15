@@ -13,6 +13,8 @@ nav{
     min-height: 10vh;
 }
 
+
+
 .conteudoPagina1{
 
     height: 90vh;
@@ -20,6 +22,19 @@ nav{
     
 }
 
+.pagina2{
+
+    height: 100vh;
+    
+}
+
 .pagina1Col1{
     background-color: white!important;
+}
+
+
+
+.footerPagina{
+    margin-top: 25vh;
+    height: 15vh;
 }
