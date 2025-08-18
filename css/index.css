@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+background:#f2efef;
+overflow-x: hidden;
+}
+
+nav{
+    background-image: linear-gradient(to right top, #030405, #1b1f20, #2f3535, #464d48, #62655c)!important;
+}
+
+nav a{
+    color: white!important;
+}
+
+.navbar-toggler{
+    color: white!important;
+    background-color: white!important;
+}
+
+#home{
+    height: auto;
+    width: 100vw;
+}
+
+
+.card img {
+  width: 100%;
+  height: auto;  /* deixa a proporção correta */
+}
+
+footer a {
+    color: white!important;
+}
